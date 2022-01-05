@@ -27,6 +27,9 @@ O linux é uma das partes que compõem o sistema operacional GNU <br>
 - Mantido pelo Alexandre Oliva <br>
 
 # Debian <br>
+
+<img style="center" src="https://www.debian.org/Pics/debian-logo-1024x576.png" alt="Debain logo">
+
 - Contrato Social
 
 > O debian permanecerá 100% livre <br> 
