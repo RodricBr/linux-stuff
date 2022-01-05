@@ -100,6 +100,9 @@ m68k, powerpcspe, riscv64, sh4, sparc64, x32
 - Não-Linux: (Port para distros que não usam o kernel linux) <br>
 hurd-i386, kfreebsd-amd64, kfreebsd-i386 <br>
 
+## Versões:
+A versão mais atual, em 2022 -> Debian 11: 11.2 released
+
 O debian é a segunda distribuição mais antiga, a mais antiga é o slackware (1 mês mais antiga) <br>
 O debian não é endossado pela Free Software Foundation, porém o Debian é a única distro que distribui o kernel sem logs <br>
 O debian pode ser utilizado sem se usar o Linux, tendo a ideia de ser um sistema universal, e por isso ele está a disposição do maior número de arquiteturas <br>
