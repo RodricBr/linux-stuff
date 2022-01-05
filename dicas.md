@@ -80,6 +80,9 @@ A seção main é a seção que o Debian considera ser o Debian <br>
 
 ## Branches (Ramificações / versões) <br>
 Uma versão do Debian quando é lançada, significa que ela tornou/considerou uma de suas versões como sendo estável (stable) <br>
+Versão recomendada a ser usada por servidores, serviços, desktops corporativos, etc <br>
+
+<img style="center" src="https://cdn.discordapp.com/attachments/759448770802483200/928381927021477898/unknown.png" alt="Branches">
 
 old-stable ->  <br>
 stable ->  <br>
