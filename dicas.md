@@ -3,3 +3,5 @@
 # GNU <br>
 
 O GNU é um sistema operacional composto exclusivamente por softwares livres (GNU não é UNIX)
+Linux é um kernel
+Distribuição é um conjunto de softwares (Distribuição do sistema operacional)
