@@ -79,6 +79,7 @@ A seção main é a seção que o Debian considera ser o Debian <br>
 - non-free -> Softwares que não são livres <br>
 
 ## Branches (Ramificações / versões) <br>
+Uma versão do Debian quando é lançada, significa que ela tornou/considerou uma de suas versões como sendo estável (stable) <br>
 
 old-stable ->  <br>
 stable ->  <br>
