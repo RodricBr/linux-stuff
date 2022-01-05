@@ -101,7 +101,7 @@ m68k, powerpcspe, riscv64, sh4, sparc64, x32
 hurd-i386, kfreebsd-amd64, kfreebsd-i386 <br>
 
 ## Versões:
-A versão mais atual, em 2022 -> Debian 11: 11.2 released
+A versão mais atual, em 2022 -> Debian 11: 11.2 released (Codinome: Bullseye)
 
 O debian é a segunda distribuição mais antiga, a mais antiga é o slackware (1 mês mais antiga) <br>
 O debian não é endossado pela Free Software Foundation, porém o Debian é a única distro que distribui o kernel sem logs <br>
