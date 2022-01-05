@@ -11,7 +11,9 @@ Distribuição é um conjunto de softwares (Distribuição do sistema operaciona
 
 # Linux (Kernel) <br>
 - Lançamento -> 1991
-- Licenciado GPL -> 1992
+- Licenciado GPL 2 (GNU Public License verão 2) -> 1992
 - Inclusão de Softwares não-livres (blobs) -> 1996
+- Linux Libre -> 2006
+- Separação da árvore -> 2008
 
-Linux é um kernel, qualquer sistema operacional tem um kernel, ela é a parte fundamental de um sistema operacional (O linux tem a licensa GPL v2) <br>
+Linux é um kernel, qualquer sistema operacional tem um kernel, ela é a parte fundamental de um sistema operacional (O linux tem a licensa GPL 2) <br>
