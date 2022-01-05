@@ -23,7 +23,7 @@ Linux é um kernel, qualquer sistema operacional tem um kernel, ela é a parte f
 O kernel linux se mostrou muito promissor, e foi incorporado às distribuições, tendo assim um sistema operacional completo e funcional, contendo apenas softwares livres <br>
 O linux é uma das partes que compõem o sistema operacional GNU <br>
 
-# Linux Libre (Com o Tux azul feioso tamando banho) <br>
+# Linux Libre (Com o Tux azul feioso tomando banho) <br>
 - Mantido pelo Alexandre Oliva <br>
 
 # Debian <br>
