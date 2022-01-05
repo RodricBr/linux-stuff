@@ -84,11 +84,11 @@ Versão recomendada a ser usada por servidores, serviços, desktops corporativos
 
 <img style="center" src="https://camo.githubusercontent.com/6f82308782d1adabf573fa32ac869109088844efa4e52ec413d57179febe7a3d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3735393434383737303830323438333230302f3932383338313932373032313437373839382f756e6b6e6f776e2e706e67" alt="Branches">
 
-old-stable -> já foi estável <br>
-stable -> é estável <br>
-testing -> estágio de teste <br>
-unstable(sid) -> não é estável <br>
-experimental -> acabou de ser 'criado' <br>
+**old-stable** -> já foi estável <br>
+**stable** -> é estável <br>
+**testing** -> estágio de teste <br>
+**unstable(sid)** -> não é estável <br>
+**experimental** -> quando um mantenedor de pacotes deseja fazer testes <br>
 
 
 O debian é a segunda distribuição mais antiga, a mais antiga é o slackware (1 mês mais antiga) <br>
