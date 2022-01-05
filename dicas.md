@@ -69,6 +69,13 @@ Definição própria do que o Debian considera software livre, contendo 10 itens
 10- Licenças exemplo: <br>
 - As licenças GPL, BSD e Artistic são exemplos de licenças que consideramos gratuitas <br>
 
+## Seções
+Os pacotes que entram no debian, ficam distribuidos em seções diferentes <br>
+- main -> A seção principal (exclusivamente softwares livres) <br>
+
+- contrib -> Também vão haverão softwares livres, mas também podem haver softwares livres cuja finalidade é carregar softwares que não são livres (Ex: FlashPlayer) <br>
+
+- non-free -> Softwares que não são livres <br>
 
 O debian é a segunda distribuição mais antiga, a mais antiga é o slackware (1 mês mais antiga) <br>
 O debian não é endossado pela Free Software Foundation, porém o Debian é a única distro que distribui o kernel sem logs <br>
