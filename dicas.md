@@ -2,4 +2,4 @@
 
 # GNU <br>
 
-O GNU é um sistema operacional composto exclusivamente por softwares livres
+O GNU é um sistema operacional composto exclusivamente por softwares livres (GNU não é UNIX)
