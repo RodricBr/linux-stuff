@@ -37,7 +37,7 @@ O linux é uma das partes que compõem o sistema operacional GNU <br>
 
 > Nossas prioridades são nossos usuários e o software livre <br>
 
-- DSFG (Debian Free Software Guidelines) <br>
+## DSFG (Debian Free Software Guidelines) <br>
 Definição própria do que o Debian considera software livre, contendo 10 itens em sua lista <br>
 
 1- Redistribuição Livre <br>
@@ -51,6 +51,23 @@ Definição própria do que o Debian considera software livre, contendo 10 itens
 
 4- Integridade do Código Fonte do Autor <br>
 - Se por acaso, o autor não quiser ser distribuído e modificado, ele tem que permitir que o software seja distribuído na versão original, e que também seja distribuídos as correções/modificações <br>
+
+5- Não pode haver discriminação contra pessoas ou grupos <br>
+
+6- Não pode haver discriminação contra fins de utilização <br>
+- O software tem que ser usado para qualquer finalidade, independente do que seja <br>
+
+7- Distribuição de Licensa <br>
+- A liberdade não para no debian, ela continua adiante <br>
+
+8- A licensa não pode ser específica pro Debian <br>
+- Os direitos associados ao programa não devem depender do programa ser parte de um sistema Debian <br>
+
+9- A licensa não deve contaminar outros softwares <br>
+- A licença não deve impor restrições a outro software distribuído junto com o software licenciado. Por exemplo, a licença não deve exigir que todos os outros programas distribuídos no mesmo meio sejam software livre <br>
+
+10- Licenças exemplo: <br>
+- As licenças GPL, BSD e Artistic são exemplos de licenças que consideramos gratuitas <br>
 
 
 O debian é a segunda distribuição mais antiga, a mais antiga é o slackware (1 mês mais antiga) <br>
