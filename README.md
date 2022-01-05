@@ -28,7 +28,7 @@ O linux é uma das partes que compõem o sistema operacional GNU <br>
 
 # Debian <br>
 
-<img style="center" src="https://www.debian.org/Pics/debian-logo-1024x576.png" alt="Debain logo">
+<img style="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/800px-Debian-OpenLogo.svg.png" alt="Debain logo">
 
 - Contrato Social
 
