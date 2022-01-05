@@ -18,3 +18,4 @@ Distribuição é um conjunto de softwares (Distribuição do sistema operaciona
 - Linux Libre *GNU -> 2012
 
 Linux é um kernel, qualquer sistema operacional tem um kernel, ela é a parte fundamental de um sistema operacional (O linux tem a licensa GPL 2) <br>
+O kernel linux se mostrou muito promissor, e foi incorporado às distribuições, tendo assim um sistema operacional completo e funcional, tendo apenas softwares livres <br>
