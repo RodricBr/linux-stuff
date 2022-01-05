@@ -72,6 +72,7 @@ Definição própria do que o Debian considera software livre, contendo 10 itens
 ## Seções
 Os pacotes que entram no debian, ficam distribuidos em seções diferentes <br>
 - main -> A seção principal (exclusivamente softwares livres) <br>
+A seção main é a seção que o Debian considera ser o Debian <br>
 
 - contrib -> Também vão haverão softwares livres, mas também podem haver softwares livres cuja finalidade é carregar softwares que não são livres (Ex: FlashPlayer) <br>
 
