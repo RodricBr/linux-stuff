@@ -8,6 +8,7 @@
 
 O GNU é um sistema operacional composto exclusivamente por softwares livres (GNU não é UNIX) <br>
 Distribuição é um conjunto de softwares (Distribuição do sistema operacional) <br>
+O jeito que o sistema deve ser chamado é "GNU", também pode ser chamado de "GNU Linux" para dar os devidos créditos à Torvalds <br>
 
 # Linux (Kernel) <br>
 - Lançamento -> 1991
@@ -22,3 +23,4 @@ O kernel linux se mostrou muito promissor, e foi incorporado às distribuições
 
 # Linux Libre (Com o Tux azul feioso tamando banho) <br>
 - Mantido pelo Alexandre Oliva <br>
+
