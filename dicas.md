@@ -37,6 +37,10 @@ O linux é uma das partes que compõem o sistema operacional GNU <br>
 
 > Nossas prioridades são nossos usuários e o software livre <br>
 
+- DSFG (Debian Free Software Guidelines) <br>
+Definição própria do que o Debian considera software livre <br>
+
+
 O debian é a segunda distribuição mais antiga, a mais antiga é o slackware (1 mês mais antiga) <br>
 O debian não é endossado pela Free Software Foundation, porém o Debian é a única distro que distribui o kernel sem logs <br>
 O debian pode ser utilizado sem se usar o Linux, tendo a ideia de ser um sistema universal, e por isso ele está a disposição do maior número de arquiteturas <br>
