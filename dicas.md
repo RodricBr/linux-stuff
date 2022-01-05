@@ -46,6 +46,12 @@ Definição própria do que o Debian considera software livre, contendo 10 itens
 2- Código Fonte <br>
 - Para poder entrar no debian, tem de ser permitido ou distribuir o código fonte, e distribuir a versão compilada (Código fonte E sua versão já compilada. Não basta só o código fonte) <br>
 
+3- Trabalhos Derivádos <br>
+- A licença deve permitir modificações e trabalhos derivados, e deve permitir que eles sejam distribuídos sob os mesmos termos da licença do software original. <br>
+
+4- Integridade do Código Fonte do Autor <br>
+- Se por acaso, o autor não quiser ser distribuído e modificado, ele tem que permitir que o software seja distribuído na versão original, e que também seja distribuídos as correções/modificações <br>
+
 
 O debian é a segunda distribuição mais antiga, a mais antiga é o slackware (1 mês mais antiga) <br>
 O debian não é endossado pela Free Software Foundation, porém o Debian é a única distro que distribui o kernel sem logs <br>
