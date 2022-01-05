@@ -1,10 +1,11 @@
 # [Curso](https://www.youtube.com/watch?v=SZMIL87CyVE&list=PLuf64C8sPVT9L452PqdyYCNslctvCMs_n)
 
-# GNU <br>
+# GNU (Sistema operacional) <br>
 - 1983, 100% softwares livres
 - 1991 -> Kernel Linux / Hurd
 - Componentes:
 - Bootloader, kernel, bibliotecas
+- [Distros endossadas](https://www.gnu.org/distros/free-distros.pt-br.html)
 
 O GNU é um sistema operacional composto exclusivamente por softwares livres (GNU não é UNIX) <br>
 Distribuição é um conjunto de softwares (Distribuição do sistema operacional) <br>
