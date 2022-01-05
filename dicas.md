@@ -40,8 +40,11 @@ O linux é uma das partes que compõem o sistema operacional GNU <br>
 - DSFG (Debian Free Software Guidelines) <br>
 Definição própria do que o Debian considera software livre, contendo 10 itens em sua lista <br>
 
-1- Redistribuição livre
- aa    aaa
+1- Redistribuição Livre <br>
+- Ele tem de ser livre para ser redistribuído <br>
+
+2- Código Fonte <br>
+- Para poder entrar no debian, tem de ser permitido ou distribuir o código fonte, e distribuir a versão compilada (Código fonte E sua versão já compilada. Não basta só o código fonte) <br>
 
 
 O debian é a segunda distribuição mais antiga, a mais antiga é o slackware (1 mês mais antiga) <br>
