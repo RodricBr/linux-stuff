@@ -37,7 +37,7 @@ O linux é uma das partes que compõem o sistema operacional GNU <br>
 
 > Nossas prioridades são nossos usuários e o software livre <br>
 
-## DSFG (Debian Free Software Guidelines) <br>
+## [DSFG](https://www.debian.org/social_contract) (Debian Free Software Guidelines) <br>
 Definição própria do que o Debian considera software livre, contendo 10 itens em sua lista <br>
 
 1- Redistribuição Livre <br>
