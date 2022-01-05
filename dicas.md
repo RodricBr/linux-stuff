@@ -26,3 +26,6 @@ O linux é uma das partes que compõem o sistema operacional GNU <br>
 # Linux Libre (Com o Tux azul feioso tamando banho) <br>
 - Mantido pelo Alexandre Oliva <br>
 
+# Debian
+O debian é a segunda distribuição mais antiga, a mais antiga é o slackware (~3 meses mais antiga) <br>
+O debia não é endossado pela Free Software Foundation, porém o Debian é a única distro que distribui o kernel sem logs <br>
