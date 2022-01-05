@@ -98,7 +98,7 @@ amd64, arm64, armel, armhf, i386, mips64el, mipsel, ppc64el, s390x <br>
 m68k, powerpcspe, riscv64, sh4, sparc64, x32
 
 - Não-Linux: (Port para distros que não usam o kernel linux) <br>
-
+hurd-i386, kfreebsd-amd64, kfreebsd-i386 <br>
 
 O debian é a segunda distribuição mais antiga, a mais antiga é o slackware (1 mês mais antiga) <br>
 O debian não é endossado pela Free Software Foundation, porém o Debian é a única distro que distribui o kernel sem logs <br>
