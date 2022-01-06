@@ -17,7 +17,6 @@ Desenvolver todo o sistema é um projeto muito grande, para facilitar, Richard S
 O GNU inclui programas que não são software externos, programas que foram desenvolvidos por outras pessoas, ou projetos, mas que podem ser utilizados, por serem software livre <br>
 Em 1987, Andrew Tanenbaum criou o MINIX, desenvolvido para o microcomputador IBM PC e IBM PC/AT, na Vrije Universiteit Amsterdam, como exemplo prático dos princípios transmitidos em seu livro. 12.000 linhas do código fonte C do kernel, gerenciador de memória e sistema de arquivos do MINIX 1.0 estão impressas no livro <br>
 O GNU é um sistema operacional composto exclusivamente por softwares livres <br>
-Distribuição é um conjunto de softwares (Distribuição do sistema operacional) <br>
 O jeito que o sistema deve ser chamado é "GNU", também pode ser chamado de "GNU Linux" para dar os devidos créditos à Torvalds <br>
 
 # Linux (Kernel) <br>
@@ -33,8 +32,14 @@ Linux é um kernel, qualquer sistema operacional tem um kernel, ela é a parte f
 O kernel linux se mostrou muito promissor, e foi incorporado às distribuições, tendo assim um sistema operacional completo e funcional, contendo apenas softwares livres <br>
 O linux é uma das partes que compõem o sistema operacional GNU <br>
 
-## GNU/Linux <br>
+# GNU/Linux <br>
 O HURD, kernel do original GNU, não chegou a ficar pronto (e não se sabe se ficará um dia). Felizmente, o linux é compatível com o UNIX. A combinação do linux com os softwares do projeto GNU resultou em um sistema operacional livre completo. Assim a correta denominação é GNU/Linux, para expressar sua composição como a combinação do sistema GNU, e do núcleo (kernel) Linux <br>
+
+## Distribuição GNU/Linux <br>
+Para evitarmos "o trabalho de montar o sistema do zero, como faziam os pioneiros, temos hoje as distribuições, que nada mais são do que grandes pacotes de software que trazem instaladores, documentação e outras facilidades, que poupam o usuário das tarefas mais espinhosas de instalação e configuração do sistema" <br>
+"Qualquer pessoa pode construir uma distribuição Linux, escolhendo os pacotes, o instalador, as ferramentas de configuração, etc, entre os vários softwares disponíveis. Mas fazer tudo trabalhar adequadamente já é uma outra história <br>
+Essa é a vantagem em utilizar uma distribuição profissional" <br>
+Distribuição é um conjunto de softwares (Distribuição do sistema operacional) <br>
 
 # Debian <br>
 
