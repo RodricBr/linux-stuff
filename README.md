@@ -1,4 +1,5 @@
 # [Curso](https://www.youtube.com/watch?v=SZMIL87CyVE&list=PLuf64C8sPVT9L452PqdyYCNslctvCMs_n)
+# Anotações e Dicas sobre o GNU e o Kernel Linux, e derivados
 
 # GNU (Sistema operacional) <br>
 - 1983, 100% softwares livres
@@ -7,7 +8,12 @@
 - Bootloader, kernel, bibliotecas
 - [Distros endossadas](https://www.gnu.org/distros/free-distros.pt-br.html)
 
-O GNU é um sistema operacional composto exclusivamente por softwares livres (GNU não é UNIX) <br>
+## História <br>
+
+O Richard Stallman, pesquisador do MIT, anunciou em 1983 o projeto GNU (GNU's Not UNIX!), tendo como missão construir um software completo, compatível com UNIX, mas não é UNIX, e livremente para qualquer pessoa que queira usar <br>
+O objetivo era construir um kernel completo, com todos os utilitários necessários para desenvolver programas em C, e posteriormente seriam adicionados um editor de texto, planilhas, e outras coisas, incluindo documentação, além de ser capaz de executar programas UNIX <br>
+Richard Stallman começou a trabalhar no Laboratório de Inteligência Artificial do MIT em 1971. Ele já tinha experimentado os prejuízos de um acordo de confidencialidade quando não teve acesso ao código fonte do programa que controlava a impressora do laboratório para realizar melhorias no funcionamento dela <br>
+O GNU é um sistema operacional composto exclusivamente por softwares livres <br>
 Distribuição é um conjunto de softwares (Distribuição do sistema operacional) <br>
 O jeito que o sistema deve ser chamado é "GNU", também pode ser chamado de "GNU Linux" para dar os devidos créditos à Torvalds <br>
 
