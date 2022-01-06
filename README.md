@@ -15,6 +15,7 @@ O objetivo era construir um kernel completo, com todos os utilitários necessár
 Richard Stallman começou a trabalhar no Laboratório de Inteligência Artificial do MIT em 1971. Ele já tinha experimentado os prejuízos de um acordo de confidencialidade quando não teve acesso ao código fonte do programa que controlava a impressora do laboratório para realizar melhorias no funcionamento dela <br>
 Desenvolver todo o sistema é um projeto muito grande, para facilitar, Richard Stallman decidiu adaptar e usar partes existentes de software livre. Inicialmente ele utilizou o TeX como formatador de textos e o X Window System, como sistema de janelas <br>
 O GNU inclui programas que não são software externos, programas que foram desenvolvidos por outras pessoas, ou projetos, mas que podem ser utilizados, por serem software livre <br>
+Em 1987, Andrew Tanenbaum criou o MINIX, desenvolvido para o microcomputador IBM PC e IBM PC/AT, na Vrije Universiteit Amsterdam, como exemplo prático dos princípios transmitidos em seu livro. 12.000 linhas do código fonte C do kernel, gerenciador de memória e sistema de arquivos do MINIX 1.0 estão impressas no livro <br>
 O GNU é um sistema operacional composto exclusivamente por softwares livres <br>
 Distribuição é um conjunto de softwares (Distribuição do sistema operacional) <br>
 O jeito que o sistema deve ser chamado é "GNU", também pode ser chamado de "GNU Linux" para dar os devidos créditos à Torvalds <br>
@@ -27,12 +28,13 @@ O jeito que o sistema deve ser chamado é "GNU", também pode ser chamado de "GN
 - Separação da árvore -> 2008
 - Linux Libre *GNU -> 2012
 
+Em 1991, Linus Torvals, um estudante Finalndês de ciência da computação anunciou uma versão prévia de um kernel substituto para o MINIX; Atualmente ele continua coordenando o trabalho de várias centenas de programadores <br>
 Linux é um kernel, qualquer sistema operacional tem um kernel, ela é a parte fundamental de um sistema operacional (O linux tem a licensa GPL 2) <br>
 O kernel linux se mostrou muito promissor, e foi incorporado às distribuições, tendo assim um sistema operacional completo e funcional, contendo apenas softwares livres <br>
 O linux é uma das partes que compõem o sistema operacional GNU <br>
 
-# Linux Libre (Com o Tux azul feioso tomando banho) <br>
-- Mantido pelo Alexandre Oliva <br>
+## GNU/Linux <br>
+O HURD, kernel do original GNU, não chegou a ficar pronto (e não se sabe se ficará um dia). Felizmente, o linux é compatível com o UNIX. A combinação do linux com os softwares do projeto GNU resultou em um sistema operacional livre completo. Assim a correta denominação é GNU/Linux, para expressar sua composição como a combinação do sistema GNU, e do núcleo (kernel) Linux <br>
 
 # Debian <br>
 
