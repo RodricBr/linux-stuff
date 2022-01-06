@@ -13,6 +13,8 @@
 O Richard Stallman, pesquisador do MIT, anunciou em 1983 o projeto GNU (GNU's Not UNIX!), tendo como missão construir um software completo, compatível com UNIX, mas não é UNIX, e livremente para qualquer pessoa que queira usar <br>
 O objetivo era construir um kernel completo, com todos os utilitários necessários para desenvolver programas em C, e posteriormente seriam adicionados um editor de texto, planilhas, e outras coisas, incluindo documentação, além de ser capaz de executar programas UNIX <br>
 Richard Stallman começou a trabalhar no Laboratório de Inteligência Artificial do MIT em 1971. Ele já tinha experimentado os prejuízos de um acordo de confidencialidade quando não teve acesso ao código fonte do programa que controlava a impressora do laboratório para realizar melhorias no funcionamento dela <br>
+Desenvolver todo o sistema é um projeto muito grande, para facilitar, Richard Stallman decidiu adaptar e usar partes existentes de software livre. Inicialmente ele utilizou o TeX como formatador de textos e o X Window System, como sistema de janelas <br>
+O GNU inclui programas que não são software externos, programas que foram desenvolvidos por outras pessoas, ou projetos, mas que podem ser utilizados, por serem software livre <br>
 O GNU é um sistema operacional composto exclusivamente por softwares livres <br>
 Distribuição é um conjunto de softwares (Distribuição do sistema operacional) <br>
 O jeito que o sistema deve ser chamado é "GNU", também pode ser chamado de "GNU Linux" para dar os devidos créditos à Torvalds <br>
