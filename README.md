@@ -1,7 +1,7 @@
 # [Curso](https://www.youtube.com/watch?v=SZMIL87CyVE&list=PLuf64C8sPVT9L452PqdyYCNslctvCMs_n)
 # Anotações e Dicas sobre o GNU e o Kernel Linux, e derivados
 
-# GNU (Sistema operacional) <br>
+# GNU (Coleção de softwares não UNIX licensiadas na licensa GNU GPL) <br>
 - 1983, 100% softwares livres
 - 1991 -> Kernel Linux / Hurd
 - Componentes:
