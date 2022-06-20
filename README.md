@@ -121,6 +121,22 @@ hurd-i386, kfreebsd-amd64, kfreebsd-i386 <br>
 ## Versões:
 A versão mais atual, em 2022 -> Debian 11: 11.2 released (Codinome: Bullseye)
 
+## Informativos:
+- Entendendo a diferença entre 'shell' e 'bash': <br>
+
+```bash
+# Shell:
+Primeiramente, a 'shell(sh)' é uma interface de linha de comando(CLI) entre o usuario e o kernel(o kernel interpreta os comandos executados pelo usuário e retorna o resultado em output(standard output/stdout)).
+
+# Bash:
+O 'bash' é tipo uma versão 'melhorada' dessa shell, contendo funcionalidades mais avançadas, como por exemplo edição em linha de comando.
+
+Um script criado em 'shell(sh)' pode ser executado em bash da mesma forma.
+
+# Conclusão:
+A shell é uma forma de se comunicar com o sistema em forma de comandos de texto, e o sistema retorna os resultados desse comandos enviados pelo usuário.
+```
+
 ## Mitos:
 Em quase todas as vezes, o Debian que você usa, não é o mesmo que eu uso, pois na hora da instalação temos a capacidade de decidir o que queremos dentro do nossos sistema Debian <br>
 
