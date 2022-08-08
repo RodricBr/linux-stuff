@@ -137,7 +137,7 @@ Um script criado em 'shell(sh)' pode ser executado em bash da mesma forma.
 A shell é uma forma de se comunicar com o sistema em forma de comandos de texto, e o sistema retorna os resultados desse comandos enviados pelo usuário.
 ```
 
-## Mitos:
+## Observações:
 Em quase todas as vezes, o Debian que você usa, não é o mesmo que eu uso, pois na hora da instalação temos a capacidade de decidir o que queremos dentro do nossos sistema Debian <br>
 
 O debian é a segunda distribuição mais antiga, a mais antiga é o slackware (1 mês mais antiga) <br>
